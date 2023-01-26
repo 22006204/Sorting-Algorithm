@@ -60,8 +60,9 @@ print(list_of_nums)
 ```
 
 ## Output:
-![output](./sort1.png)
-![output](./sort2.png)
+![sort1](https://user-images.githubusercontent.com/118787261/214911520-b0a57b42-61a3-4c18-8445-6cfb7af5f39b.png)
+
+![sort2](https://user-images.githubusercontent.com/118787261/214911531-0a1a4d8b-53c4-45ed-b892-040ae6ebf988.png)
 
 
 ## Result:
